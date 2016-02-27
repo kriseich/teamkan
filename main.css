@@ -1,0 +1,24 @@
+body {
+    color: rgba(0, 0, 0, 0.7);
+    background: #689487;
+    font-family: "Garamond", sans-serif;
+    font-weight: 300;
+    -webkit-font-smoothing: antialiased;
+    text-align: center;
+
+}
+.landing {
+	position: relative;
+    background: url(../teamkan/Images/Landing.jpg)no-repeat center center fixed;
+    border-radius: 12px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: #fff;
+    padding-top: 140px;
+    min-height: 520px;
+    letter-spacing: 2px;
+    font-family: "Garamond", sans-serif;
+}
