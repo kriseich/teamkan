@@ -112,15 +112,15 @@ h1 {
 }
 
 .item-1 {
-    background: url('../teamkan/images/london.jpg');
+    background: url('./images/london.jpg');
     }
     
 .item-2 {
-    background: url('../teamkan/images/newyork.jpg');
+    background: url('./images/newyork.jpg');
     }
     
 .item-3 {
-    background: url('../teamkan/images/berlin.jpg');
+    background: url('./images/berlin.jpg');
     }
         
 .item-1,
